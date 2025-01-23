@@ -1,2 +1,2 @@
-# ManagemenKeuanganSantrit
+# ManagemenKeuanganSantri
 mengatur keuangan santri
